@@ -1,3 +1,3 @@
 # calender_app_flutter
 
-![screenshot](app/src/main/res/Screenshot1.png)
+![screenshot](calender_app_flutter/lib/ScreenShot.png)
